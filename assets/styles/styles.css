@@ -147,7 +147,7 @@ body {
   height: 200px;
   border-radius: 50%;
   margin: auto;
-  background: url("/assets/images/profile.jpg");
+  background: url("../images/profile.jpg");
   background-size: 150%;
   background-position: 40% 10%;
 }
